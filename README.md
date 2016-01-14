@@ -5,9 +5,9 @@ This projects tests the behaviour of a Feed-Reader website, using Jasmine (http:
 
 ## Usage
 
-*Clone this repo or download it in a Zip file
-*Open index.html in a browser of your choice
-*Look at the bottom of the page to inspect test results
+* Clone this repo or download it in a Zip file
+* Open index.html in a browser of your choice
+* Look at the bottom of the page to inspect test results
 
 ## Test Description
 
